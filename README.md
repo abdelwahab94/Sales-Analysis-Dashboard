@@ -8,7 +8,7 @@ This project is a dynamic and interactive sales dashboard created in Excel. It p
 - **Net Sales**: $2.117M
 - **Net Profit**: $263.16K
 - **Total Customers**: 793
-- Top Sales Agent: Chuck Magee with $637.08K in sales.
+- **Top Sales Agent**: Chuck Magee with $637.08K in sales.
 
 ### Visual Insights:
 1. **Discount & Shipping Price Effect on Profit**:
