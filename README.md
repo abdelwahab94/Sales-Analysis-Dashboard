@@ -51,7 +51,7 @@ This project is a dynamic and interactive sales dashboard created in Excel. It p
 ## How to Access
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/abdelwahab94/Sales-Analysis-Dashboard>
+   git clone https://github.com/abdelwahab94/Sales-Analysis-Dashboard
    ```
 2. Open the Excel file in any version of Microsoft Excel 2016 or later.
 
