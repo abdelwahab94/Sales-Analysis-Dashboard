@@ -1,8 +1,7 @@
 # Sales-Analysis-Dashboard
 
 ## Project Description
-This project is a dynamic and interactive sales dashboard created in Excel. It provides a comprehensive overview of sales performance, key metrics, and actionable insights for better decision-making. Designed with a user-friendly interface, it includes visualizations and filters to explore data effectively.
-
+This project is a dynamic and interactive sales dashboard created in Excel, designed to provide a comprehensive overview of sales performance, key metrics, and actionable insights for better decision-making. It integrates **data cleaning**, **modeling**, and **visualization** to ensure accuracy and reliability of the insights presented. The dashboard is user-friendly, featuring intuitive visualizations and interactive filters to explore data effectively.
 ## Features
 ### Key Metrics:
 - **Net Sales**: $2.117M
@@ -58,5 +57,3 @@ This project is a dynamic and interactive sales dashboard created in Excel. It p
 ## Contributing
 Contributions are welcome! If you'd like to enhance the dashboard or add new features, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
